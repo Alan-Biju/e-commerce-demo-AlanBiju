@@ -580,6 +580,9 @@ align-items: center;
   .touch_right input{
     padding: 15px 40px;
   }
+  .touch_right input{
+    padding: 15px 30px;
+  }
   
 }
 @media(max-width:422px){
